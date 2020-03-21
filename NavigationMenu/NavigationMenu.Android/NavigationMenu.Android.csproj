@@ -15,7 +15,6 @@
     <AndroidManifest>Properties\AndroidManifest.xml</AndroidManifest>
     <MonoAndroidResourcePrefix>Resources</MonoAndroidResourcePrefix>
     <MonoAndroidAssetsPrefix>Assets</MonoAndroidAssetsPrefix>
-    <AndroidUseLatestPlatformSdk>true</AndroidUseLatestPlatformSdk>
     <NuGetPackageImportStamp>
     </NuGetPackageImportStamp>
     <AndroidTlsProvider>
@@ -132,7 +131,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\NavigationMenu\NavigationMenu.csproj">
-      <Project>{dce27c39-0242-4810-a58a-99dfff967252}</Project>
+      <Project>{B8AA3898-121E-42A4-B150-C35172D52E76}</Project>
       <Name>NavigationMenu</Name>
     </ProjectReference>
   </ItemGroup>
